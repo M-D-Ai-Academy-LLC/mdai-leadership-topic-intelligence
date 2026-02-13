@@ -4,6 +4,7 @@
 
 | Document | Gamma URL | Created |
 |----------|-----------|---------|
+| **Leadership Topic Intelligence Platform** | [View on Gamma](https://gamma.app/docs/k434mibex38m8p4) | 2026-02-13 |
 | **M&D AI Academy — AI Consulting & Training Pitch Deck** | [View on Gamma](https://gamma.app/docs/5umxt9oluar133w) | 2026-02-13 |
 
 ## Source Documents
