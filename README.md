@@ -78,15 +78,6 @@ See `docs/process-infographics.md` for layman-friendly visuals that explain:
 
 See `docs/user-guide.md` for a non-technical walkthrough, task selection guidance, and output interpretation.
 
-## Business Planning Pack
-
-- Master plan: `docs/bp/20260213-master-business-plan-mdai-ai-consulting-training.md`
-- Visual assets:
-  - `visualizations/bp-executive-dashboard.svg`
-  - `visualizations/bp-market-landscape.svg`
-  - `visualizations/bp-financial-funnel.svg`
-  - `visualizations/bp-strategy-roadmap.svg`
-
 ## License
 
 AGPL-3.0 — Copyright (c) 2026 M&D AI Academy LLC
