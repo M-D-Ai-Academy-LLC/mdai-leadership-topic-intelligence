@@ -78,6 +78,10 @@ See `docs/process-infographics.md` for layman-friendly visuals that explain:
 
 See `docs/user-guide.md` for a non-technical walkthrough, task selection guidance, and output interpretation.
 
+## Project History and Logs
+
+See `docs/history/README.md` for commit timeline, merged pull request history, and workspace state logs.
+
 ## License
 
 AGPL-3.0 — Copyright (c) 2026 M&D AI Academy LLC
