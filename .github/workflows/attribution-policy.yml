@@ -1,0 +1,59 @@
+name: AI Attribution Policy Check
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+  push:
+    branches:
+      - brand-main
+      - upstream-main
+
+jobs:
+  check-attribution:
+    name: Check AI Attribution Policy
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Full history for commit checking
+
+      - name: Run AI Attribution Policy Check
+        run: |
+          bash scripts/ci-check-attribution.sh
+
+      - name: Comment on PR (if violation found)
+        if: failure() && github.event_name == 'pull_request'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: `## ❌ AI Attribution Policy Violation
+
+              This PR contains commits with AI attribution, which violates our [AI Attribution Policy](../AI_ATTRIBUTION_POLICY.md).
+
+              **Policy:** AI tools are development assistants, not authors. Only human contributors should be credited.
+
+              ### Detected Violations:
+              - \`Generated with [AI tool]\`
+              - Or similar AI attribution patterns
+
+              ### To Fix:
+              1. Rewrite commit messages to remove AI attribution
+              2. Use: \`git rebase -i origin/${{ github.base_ref }}\`
+              3. For each violating commit, use 'reword' to edit the message
+              4. Remove any \`Co-Authored-By: [AI]\` or \`Generated with\` lines
+              5. Force push: \`git push --force-with-lease\`
+
+              ### Why This Policy Exists:
+              - AI cannot hold copyright (only humans can be legal authors)
+              - Protects original human contributors' rights (snarktank/ai-dev-tasks)
+              - Complies with open source attribution requirements
+
+              **Reference:** [AI_ATTRIBUTION_POLICY.md](../AI_ATTRIBUTION_POLICY.md)
+              `
+            })

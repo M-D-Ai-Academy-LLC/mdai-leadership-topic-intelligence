@@ -1,0 +1,1 @@
+../../ai-dev-tasks/.claude/commands/log-task.md

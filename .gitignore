@@ -96,3 +96,5 @@ yarn.lock
 # Data
 data/raw/
 data/processed/
+
+# ai-dev-tasks is a git submodule (managed separately)
