@@ -44,6 +44,12 @@ Strategic priority is clear: move from feature-complete foundation to operationa
 - Explainability is a competitive advantage in analytics adoption.
 - Integration depth supports expansion and retention.
 
+## Assumption Changes Since Prior Draft
+
+- Core API commercialization assumption improved: `/api/gaps/analyze` is implemented and available for customer-facing API workflows.
+- Delivery-governance assumption improved: PRD/task workflow artifacts are present and active in `docs/prd/` and `docs/tasks/`.
+- External market-size precision assumption unchanged: directional estimates still require licensed source validation.
+
 ## 3) Integrated KPI Framework
 
 ### Growth KPIs

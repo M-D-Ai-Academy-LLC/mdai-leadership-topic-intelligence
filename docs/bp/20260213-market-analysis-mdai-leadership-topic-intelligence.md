@@ -23,6 +23,7 @@ Teams need to decide what leadership topics to build, update, or retire. Poor to
 ### Strategic Rationale
 
 - The product already supports core workflow steps (research, clustering, intent, gap, scoring, reporting).
+- API-based gap analysis is now implemented, improving applicability for API-first buyer segments.
 - Buyers increasingly expect measurable evidence behind content strategy.
 - A specialized product can outperform generic SEO tools for leadership-focused use cases.
 
@@ -120,5 +121,10 @@ Teams need to decide what leadership topics to build, update, or retire. Poor to
 - Internal product capabilities and repository artifacts.
 - Directional market assumptions based on common B2B analytics commercialization patterns.
 - External web data collection was partially blocked during this run; market figures should be validated with licensed sources before board/investor use.
+
+## Assumption Change Log
+
+- Updated product-readiness assumption: gap-analysis endpoint is no longer a known marketability gap for API consumers.
+- Updated execution-readiness assumption: standardized PRD/task artifacts are present for repeatable feature planning and delivery.
 
 Document last updated on 2026-02-13. Verified against project logs, deliverables tracking, and communication archives.
