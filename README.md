@@ -64,6 +64,20 @@ src/
 
 See `docs/scoring-spec.md` for complete scoring formulas.
 
+## Process Infographics
+
+See `docs/process-infographics.md` for layman-friendly visuals that explain:
+
+- how data flows through the pipeline,
+- how topics are prioritized,
+- and how to interpret final recommendations.
+
+![Pipeline Overview](visualizations/pipeline-overview.svg)
+
+## User Guide
+
+See `docs/user-guide.md` for a non-technical walkthrough, task selection guidance, and output interpretation.
+
 ## License
 
 AGPL-3.0 — Copyright (c) 2026 M&D AI Academy LLC

@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="520" viewBox="0 0 1280 520" role="img" aria-labelledby="title desc">
+  <title id="title">Leadership Topic Intelligence Pipeline</title>
+  <desc id="desc">A step-by-step visual from question to ranked report.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f7fbff"/>
+      <stop offset="100%" stop-color="#eef7f6"/>
+    </linearGradient>
+    <style>
+      .title{font:700 28px 'Segoe UI',Tahoma,sans-serif;fill:#12343b}
+      .subtitle{font:400 15px 'Segoe UI',Tahoma,sans-serif;fill:#31565f}
+      .box{fill:#ffffff;stroke:#7bb4b0;stroke-width:2;rx:14}
+      .step{font:700 16px 'Segoe UI',Tahoma,sans-serif;fill:#0f2d33}
+      .text{font:400 13px 'Segoe UI',Tahoma,sans-serif;fill:#28464d}
+      .arrow{stroke:#2f8c87;stroke-width:3;fill:none;marker-end:url(#m)}
+    </style>
+    <marker id="m" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto">
+      <path d="M0,0 L10,4 L0,8 z" fill="#2f8c87"/>
+    </marker>
+  </defs>
+
+  <rect width="1280" height="520" fill="url(#bg)"/>
+  <text x="50" y="52" class="title">From Question to Actionable Topic Report</text>
+  <text x="50" y="78" class="subtitle">Layman view of how the system turns search signals into recommendations</text>
+
+  <rect class="box" x="40" y="150" width="180" height="200"/>
+  <text x="62" y="182" class="step">1. Ask a Question</text>
+  <text x="62" y="210" class="text">Example:</text>
+  <text x="62" y="230" class="text">"What leadership topics</text>
+  <text x="62" y="250" class="text">should we teach next?"</text>
+
+  <rect class="box" x="250" y="150" width="180" height="200"/>
+  <text x="272" y="182" class="step">2. Collect Signals</text>
+  <text x="272" y="210" class="text">Google Trends</text>
+  <text x="272" y="230" class="text">SERP features</text>
+  <text x="272" y="250" class="text">Related questions</text>
+
+  <rect class="box" x="460" y="150" width="180" height="200"/>
+  <text x="482" y="182" class="step">3. Group Topics</text>
+  <text x="482" y="210" class="text">Keywords are clustered</text>
+  <text x="482" y="230" class="text">into practical themes</text>
+  <text x="482" y="250" class="text">people care about</text>
+
+  <rect class="box" x="670" y="150" width="180" height="200"/>
+  <text x="692" y="182" class="step">4. Find Intent</text>
+  <text x="692" y="210" class="text">Why they search:</text>
+  <text x="692" y="230" class="text">learn, compare, buy,</text>
+  <text x="692" y="250" class="text">or get certified</text>
+
+  <rect class="box" x="880" y="150" width="180" height="200"/>
+  <text x="902" y="182" class="step">5. Spot Gaps</text>
+  <text x="902" y="210" class="text">Check what competitors</text>
+  <text x="902" y="230" class="text">already cover and</text>
+  <text x="902" y="250" class="text">where opportunities exist</text>
+
+  <rect class="box" x="1090" y="150" width="150" height="200"/>
+  <text x="1110" y="182" class="step">6. Rank + Report</text>
+  <text x="1110" y="210" class="text">Prioritized topics,</text>
+  <text x="1110" y="230" class="text">scores, and next</text>
+  <text x="1110" y="250" class="text">content actions</text>
+
+  <path class="arrow" d="M220 250 L246 250"/>
+  <path class="arrow" d="M430 250 L456 250"/>
+  <path class="arrow" d="M640 250 L666 250"/>
+  <path class="arrow" d="M850 250 L876 250"/>
+  <path class="arrow" d="M1060 250 L1086 250"/>
+
+  <text x="50" y="440" class="subtitle">Rule of thumb: High demand + clear intent + weak competitor coverage = best next topic.</text>
+</svg>
