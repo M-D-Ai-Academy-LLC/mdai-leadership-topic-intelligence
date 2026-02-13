@@ -4,25 +4,29 @@
 
 | Document | Gamma URL | Created |
 |----------|-----------|---------|
-| **Leadership Topic Intelligence Platform** | [View on Gamma](https://gamma.app/docs/k434mibex38m8p4) | 2026-02-13 |
+| **Leadership Topic Intelligence Platform (Updated)** | [View on Gamma](https://gamma.app/docs/stfygetzjr880gu) | 2026-02-13 |
+| **Leadership Topic Intelligence Platform (v1)** | [View on Gamma](https://gamma.app/docs/k434mibex38m8p4) | 2026-02-13 |
 | **M&D AI Academy — AI Consulting & Training Pitch Deck** | [View on Gamma](https://gamma.app/docs/5umxt9oluar133w) | 2026-02-13 |
 
 ## Source Documents
 
 | Document | Description |
 |----------|-------------|
-| [Master Business Plan](20260213-master-business-plan-mdai-ai-consulting-training.md) | Consolidated executive package |
-| [Market Analysis](20260213-market-analysis-mdai-ai-consulting-training.md) | Demand validation and positioning |
-| [Financial Projections](20260213-financial-projections-mdai-ai-consulting-training.md) | 12-month conservative model |
-| [Go-to-Market Strategy](20260213-go-to-market-strategy-mdai-ai-consulting-training.md) | Two-lane GTM approach |
-| [Strategic Plan](20260213-strategic-plan-mdai-ai-consulting-training.md) | 12-month direction and KPIs |
+| [Master Business Plan](20260213-master-business-plan-mdai-leadership-topic-intelligence.md) | Consolidated executive package |
+| [Market Analysis](20260213-market-analysis-mdai-leadership-topic-intelligence.md) | B2B platform demand validation |
+| [Financial Projections](20260213-financial-projections-mdai-leadership-topic-intelligence.md) | 3-year SaaS model ($3.75M ARR Y3) |
+| [Go-to-Market Strategy](20260213-go-to-market-strategy-mdai-leadership-topic-intelligence.md) | 12-month commercialization plan |
+| [Product Roadmap](20260213-product-roadmap-mdai-leadership-topic-intelligence.md) | 4-quarter execution plan |
+| [Strategic Plan](20260213-strategic-plan-mdai-leadership-topic-intelligence.md) | 12-24 month strategic direction |
 
 ## Key Numbers
 
-- **Three-Offer Stack:** Workshop ($6,500) → Sprint ($32,000) → Retainer ($18K/quarter)
-- **Conversion:** Workshop→Sprint 35% | Sprint→Retainer 45%
-- **Break-Even:** Month 6-8 (base case)
-- **Client LTV:** Up to $104,500 in Year 1
+- **SaaS Pricing:** Starter $699/mo | Growth $1,999/mo | Enterprise $4,999/mo
+- **Y3 ARR (Base Case):** $3.75M | 130 customers
+- **Break-Even:** Late Year 2 / Early Year 3
+- **Funding Need:** $1.2M - $1.8M (18-24 month runway)
+- **Gross Margin:** 72% Y1 → 80% Y3
+- **NRR:** 105% Y1 → 112% Y3
 
 ---
 
