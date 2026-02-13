@@ -78,6 +78,15 @@ See `docs/process-infographics.md` for layman-friendly visuals that explain:
 
 See `docs/user-guide.md` for a non-technical walkthrough, task selection guidance, and output interpretation.
 
+## Business Planning Pack
+
+- Master plan: `docs/bp/20260213-master-business-plan-mdai-leadership-topic-intelligence.md`
+- Market analysis: `docs/bp/20260213-market-analysis-mdai-leadership-topic-intelligence.md`
+- Financial projections: `docs/bp/20260213-financial-projections-mdai-leadership-topic-intelligence.md`
+- GTM strategy: `docs/bp/20260213-go-to-market-strategy-mdai-leadership-topic-intelligence.md`
+- Strategic plan: `docs/bp/20260213-strategic-plan-mdai-leadership-topic-intelligence.md`
+- Product roadmap: `docs/bp/20260213-product-roadmap-mdai-leadership-topic-intelligence.md`
+
 ## Project History and Logs
 
 See `docs/history/README.md` for commit timeline, merged pull request history, and workspace state logs.
