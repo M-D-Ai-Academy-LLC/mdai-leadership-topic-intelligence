@@ -13,6 +13,7 @@ Recommendation: sequence execution by quarter with strict scope control and meas
 ### Current Situation
 
 - Strong technical baseline exists across research, scoring, and reporting workflows.
+- API parity improved through implemented gap-analysis endpoint, increasing product credibility for integration-led buyers.
 - Commercial systems (packaging, onboarding, customer operations) need further formalization.
 - Documentation and governance structure now supports standardized agent operations.
 
@@ -109,5 +110,10 @@ The key challenge is translating technical capability into reliable business gro
 - Internal repository and current implementation status.
 - Standard B2B SaaS operating assumptions adapted to this product category.
 - External source access constraints require additional validation for market-size precision.
+
+## Assumption Change Log
+
+- Updated technical-readiness assumption: one previously open API gap is closed (`/api/gaps/analyze`).
+- Updated operating-rigor assumption: PRD and task workflow assets now exist and support structured delivery governance.
 
 Document last updated on 2026-02-13. Verified against project logs, deliverables tracking, and communication archives.

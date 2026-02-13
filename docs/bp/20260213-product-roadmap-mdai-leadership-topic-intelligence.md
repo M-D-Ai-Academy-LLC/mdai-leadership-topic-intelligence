@@ -13,6 +13,7 @@ Recommendation: maintain a strict roadmap discipline with quarterly scope contro
 ### Current Situation
 
 - Core functional modules exist and are test-backed.
+- Gap-analysis API endpoint is now implemented, reducing one previously identified parity gap.
 - Productization needs include UX flow hardening, packaging controls, and operational telemetry.
 - Customers will expect predictable onboarding and transparent scoring logic.
 
@@ -126,5 +127,10 @@ Without a clear roadmap, development can drift into low-impact enhancements. Opp
 - Current repository modules, tests, and architecture.
 - Typical product maturity patterns for B2B analytics SaaS.
 - Market and buyer assumptions should be validated via design-partner interviews.
+
+## Assumption Change Log
+
+- Updated baseline: roadmap starts from an implemented gap-analysis API rather than a not-implemented placeholder endpoint.
+- Updated execution assumption: formal PRD/task workflow artifacts support quarterly roadmap decomposition and tracking.
 
 Document last updated on 2026-02-13. Verified against project logs, deliverables tracking, and communication archives.

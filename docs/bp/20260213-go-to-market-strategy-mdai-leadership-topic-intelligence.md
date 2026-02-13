@@ -13,6 +13,7 @@ Recommendation: focus on one primary ICP in the first two quarters, systematize 
 ### Current Situation
 
 - Core product components are implemented.
+- API endpoint parity improved with deployed `/api/gaps/analyze`, enabling stronger live-demo and trial workflows.
 - Commercial packaging and repeatable sales motion are early stage.
 - Buyer demand exists, but trust and proof-of-value must be established quickly.
 
@@ -113,5 +114,10 @@ Without a structured GTM model, product capability will not convert to predictab
 - Internal platform scope and capabilities.
 - Directional GTM assumptions based on typical B2B SaaS motions for analytics products.
 - External market scraping was partially restricted; assumptions should be validated with direct customer interviews and paid research before formal investment use.
+
+## Assumption Change Log
+
+- Updated conversion assumption support: demos can now include full gap-analysis API flow instead of CLI-only proof points.
+- Updated execution assumption: in-repo PRD/task workflow is active, improving GTM collateral and release-planning cadence reliability.
 
 Document last updated on 2026-02-13. Verified against project logs, deliverables tracking, and communication archives.

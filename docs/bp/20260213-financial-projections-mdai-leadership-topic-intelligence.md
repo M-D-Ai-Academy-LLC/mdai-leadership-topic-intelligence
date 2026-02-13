@@ -13,6 +13,7 @@ Recommendation: prioritize recurring subscription packaging, enforce disciplined
 ### Current Situation
 
 - The project already includes core capabilities: keyword discovery, trend analysis, clustering, intent segmentation, content gap detection, and reporting.
+- API parity improved with implemented `/api/gaps/analyze`, reducing near-term delivery risk for API-first buyers.
 - Current delivery is technically solid but not yet commercialized as a mature recurring revenue product.
 - Market demand for AI-enabled market and content intelligence is increasing, but competition is high and buyers expect measurable ROI.
 
@@ -220,5 +221,10 @@ Without a clear packaging and monetization plan, technical capability will not t
 - Internal repository scope and feature set from project code/docs.
 - Industry benchmark assumptions based on common B2B SaaS operating ranges (used as directional placeholders, not audited external market estimates).
 - Internet source scraping was attempted, but several target endpoints blocked automated access during this run; projections therefore use conservative planning assumptions and should be validated against subscribed market research sources before investor use.
+
+## Assumption Change Log
+
+- Updated technical-risk assumption: core gap-analysis API capability is now implemented and available for commercialization demos.
+- Updated operating assumption: PRD and task workflow scaffolding exists in-repo, improving execution discipline for forecasted roadmap delivery.
 
 Document last updated on 2026-02-13. Verified against project logs, deliverables tracking, and communication archives.
