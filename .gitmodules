@@ -1,0 +1,3 @@
+[submodule "ai-dev-tasks"]
+	path = ai-dev-tasks
+	url = https://github.com/M-D-Ai-Academy-LLC/ai-dev-tasks.git

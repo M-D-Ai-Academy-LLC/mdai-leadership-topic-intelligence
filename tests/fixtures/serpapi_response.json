@@ -1,0 +1,22 @@
+{
+    "search_parameters": {"q": "executive leadership", "engine": "google"},
+    "organic_results": [
+        {"position": 1, "title": "Executive Leadership Programs - HBR", "link": "https://hbr.org/leadership", "snippet": "Top executive leadership programs for 2026."},
+        {"position": 2, "title": "Leadership Development Training | CCL", "link": "https://ccl.org/leadership", "snippet": "Center for Creative Leadership development programs."},
+        {"position": 3, "title": "Best Executive Leadership Courses", "link": "https://example.com/courses", "snippet": "Compare the best executive leadership courses and certifications."}
+    ],
+    "related_searches": [
+        {"query": "executive leadership training"},
+        {"query": "leadership development programs"},
+        {"query": "corporate leadership coaching"},
+        {"query": "executive leadership certification"},
+        {"query": "leadership skills for managers"}
+    ],
+    "related_questions": [
+        {"question": "What is executive leadership?", "snippet": "Executive leadership refers to the skills and practices..."},
+        {"question": "How to develop executive leadership skills?", "snippet": "Developing executive leadership skills involves..."},
+        {"question": "What are the best executive leadership programs?", "snippet": "Top programs include HBS, Wharton, and CCL..."},
+        {"question": "How much do executive leadership programs cost?", "snippet": "Executive programs range from $5,000 to $50,000..."}
+    ],
+    "search_information": {"total_results": 285000000}
+}
