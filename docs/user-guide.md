@@ -54,11 +54,6 @@ Use these rules of thumb:
 
 For additional visuals and process explanations, see `docs/process-infographics.md`.
 
-For business planning visuals and executive-ready strategy documentation, see:
-
-- `docs/bp/20260213-master-business-plan-mdai-ai-consulting-training.md`
-- `visualizations/bp-executive-dashboard.svg`
-
 ## Common Commands
 
 Run tests:
