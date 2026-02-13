@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="780" viewBox="0 0 1400 780" role="img" aria-labelledby="t d">
+  <title id="t">Strategic Roadmap Illustration</title>
+  <desc id="d">Quarterly roadmap for plan execution with milestones.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f5fbff"/>
+      <stop offset="100%" stop-color="#f5fff7"/>
+    </linearGradient>
+    <style>
+      .h{font:700 36px 'Avenir Next',Segoe UI,sans-serif;fill:#143641}
+      .s{font:500 18px 'Avenir Next',Segoe UI,sans-serif;fill:#395b67}
+      .k{font:700 20px 'Avenir Next',Segoe UI,sans-serif;fill:#173b45}
+      .p{font:500 14px 'Avenir Next',Segoe UI,sans-serif;fill:#33535d}
+    </style>
+  </defs>
+  <rect width="1400" height="780" fill="url(#bg)"/>
+  <text x="50" y="70" class="h">12-Month Strategic Roadmap</text>
+  <text x="50" y="103" class="s">Execution sequence from foundation to scale</text>
+
+  <line x1="100" y1="210" x2="1300" y2="210" stroke="#4a8f88" stroke-width="6"/>
+  <circle cx="180" cy="210" r="18" fill="#0a8e7a"/>
+  <circle cx="500" cy="210" r="18" fill="#2f7fd2"/>
+  <circle cx="820" cy="210" r="18" fill="#8ca63b"/>
+  <circle cx="1140" cy="210" r="18" fill="#d38a1f"/>
+
+  <rect x="80" y="250" width="230" height="420" fill="#dcf5ef" stroke="#79b9a7" stroke-width="2" rx="14"/>
+  <text x="105" y="290" class="k">Q1 Foundation</text>
+  <text x="105" y="322" class="p">- Offer packaging</text>
+  <text x="105" y="348" class="p">- Message architecture</text>
+  <text x="105" y="374" class="p">- KPI baseline setup</text>
+  <text x="105" y="400" class="p">- Proposal standards</text>
+
+  <rect x="400" y="250" width="230" height="420" fill="#dbeefe" stroke="#7faed7" stroke-width="2" rx="14"/>
+  <text x="425" y="290" class="k">Q2 Launch</text>
+  <text x="425" y="322" class="p">- Demand campaigns</text>
+  <text x="425" y="348" class="p">- Partner activation</text>
+  <text x="425" y="374" class="p">- Workshop pipeline</text>
+  <text x="425" y="400" class="p">- Pilot conversion</text>
+
+  <rect x="720" y="250" width="230" height="420" fill="#e9f6db" stroke="#9db878" stroke-width="2" rx="14"/>
+  <text x="745" y="290" class="k">Q3 Optimize</text>
+  <text x="745" y="322" class="p">- Conversion tuning</text>
+  <text x="745" y="348" class="p">- Delivery QA hardening</text>
+  <text x="745" y="374" class="p">- Case study growth</text>
+  <text x="745" y="400" class="p">- Margin refinement</text>
+
+  <rect x="1040" y="250" width="230" height="420" fill="#fff2dd" stroke="#d9a874" stroke-width="2" rx="14"/>
+  <text x="1065" y="290" class="k">Q4 Scale</text>
+  <text x="1065" y="322" class="p">- Retainer expansion</text>
+  <text x="1065" y="348" class="p">- Renewal programs</text>
+  <text x="1065" y="374" class="p">- Capacity planning</text>
+  <text x="1065" y="400" class="p">- Next-year roadmap</text>
+
+  <text x="80" y="730" class="s">Operating cadence: weekly pipeline review, monthly performance review, quarterly strategic reset.</text>
+</svg>
