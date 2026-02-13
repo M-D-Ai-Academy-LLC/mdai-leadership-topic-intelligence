@@ -1,0 +1,9 @@
+{
+  "name": "mdai-leadership-topic-intelligence",
+  "version": "1.0.0",
+  "private": true,
+  "description": "M&D AI Academy — Leadership Topic Intelligence",
+  "scripts": {
+    "lint": "echo 'Use ruff for Python linting'"
+  }
+}
